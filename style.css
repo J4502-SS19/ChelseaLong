@@ -8,7 +8,8 @@ h1 {
 }
 
 body {
-  background-color: #ebe3c3;
+  background-color: #0d6c67;
+  text-align: center;
 }
 
 #container {
@@ -31,7 +32,7 @@ body {
 #nav a:link, #nav a:visited {
   display: block;
   color: #fff;
-  background-color: #96bf21;
+  background-color: #77efc7;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
@@ -40,7 +41,7 @@ body {
 }
 
 #nav a:hover, #nav a:active {
-  background-color: #78991a;
+  background-color: #1eaa8e;
 }
 
 .caption {
@@ -49,7 +50,7 @@ body {
   color: black;
   font-size: 0.8em;
   margin-top: 0;
-  text-align: right;
+  text-align: center;
 }
 
 #footer {
