@@ -21,27 +21,38 @@ body {
 #nav {
   padding: 0;
   list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 #nav li {
   margin: 0;
   padding: 0;
   border-bottom: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 #nav a:link, #nav a:visited {
-  display: block;
   color: #fff;
   background-color: #77efc7;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
-  padding: 4px;
+  padding: 45px;
   font-family: Helvetica, Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 #nav a:hover, #nav a:active {
   background-color: #1eaa8e;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .caption {
@@ -58,6 +69,7 @@ body {
   color: black;
   font: 0.8em;
   border-top: 1px solid black;
+
 }
 
 img {
