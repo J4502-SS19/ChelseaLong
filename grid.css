@@ -33,7 +33,7 @@ article:last-of-type {
 }
 
 @media screen and (min-width: 600px) {
-  #container {
+  nav {
     width: 80%
   }
 
